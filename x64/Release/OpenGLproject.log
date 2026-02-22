@@ -1,0 +1,22 @@
+﻿  Camera.cpp
+  main.cpp
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(287,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(288,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(292,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(293,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(294,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(295,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anul 3\MATERII\PG\Project\OpenGLproject\OpenGLproject\main.cpp(1373,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 3810 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  OpenGLproject.vcxproj -> E:\Anul 3\MATERII\PG\Project\OpenGLproject\x64\Release\OpenGLproject.exe

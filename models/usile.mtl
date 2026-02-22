@@ -1,0 +1,35 @@
+# Blender 5.0.0 MTL File: 'a.blend'
+# www.blender.org
+
+newmtl GLASS_Dark_Inst.001
+Ns 79.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Bump -bm 1.000000 Textures/glass_norm.jpg
+
+newmtl door0m1
+Ns 10.717731
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Textures/door0m1diff.jpg
+map_Bump -bm 1.000000 Textures/door0m1norm.jpg
+
+newmtl door0m2
+Ns 10.717731
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Textures/door0m2diff.jpg
+map_Bump -bm 1.000000 Textures/door0m2norm.jpg
